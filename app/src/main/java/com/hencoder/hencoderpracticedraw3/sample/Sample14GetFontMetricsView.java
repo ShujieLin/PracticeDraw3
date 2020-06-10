@@ -51,5 +51,6 @@ public class Sample14GetFontMetricsView extends View {
         canvas.drawText(texts[3], 400, middle + yOffset, paint2);
         canvas.drawText(texts[4], 500, middle + yOffset, paint2);
         canvas.drawText(texts[5], 600, middle + yOffset, paint2);
+
     }
 }
